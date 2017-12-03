@@ -2,3 +2,4 @@ In this project,
 1. I did not use Blueprint because there are not many modules.
 2. I disabled base.py file, I put all of the models and schemas in __init__.py, the reason is that I keep getting circular dependency error when using base.py.
 3. I used marshmallow, SQLAlchemy.
+4. All test cases passed, please feel free to email me if there is any issue. Thanks!
